@@ -12,8 +12,7 @@
 3. Model Architecture
 4. Training
 5. Evaluation
-6. Installation
-7. Usage
+6. How To use
 8. Results
 
 # Introduction 🚀
